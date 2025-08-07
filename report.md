@@ -3,13 +3,13 @@
 
 ---
 
-### 📋 Executive Summary
+###  Executive Summary
 
 **AquaSafe AI** is an innovative AI-powered application that addresses the challenges posed by climate change on wind-based sports, specifically windsurfing. By leveraging machine learning algorithms, the system provides real-time safety predictions while promoting environmental awareness and supporting UN Sustainable Development Goal 13: Climate Action.
 
 ---
 
-### 🎯 Project Objectives
+###  Project Objectives
 
 #### Primary Objectives:
 1. **Safety Enhancement**: Reduce windsurfing accidents caused by unpredictable weather
@@ -25,7 +25,7 @@
 
 ---
 
-### 🔬 Technical Implementation
+###  Technical Implementation
 
 #### Machine Learning Model:
 - **Algorithm**: Random Forest Classifier
@@ -54,7 +54,7 @@ RandomForestClassifier(
 
 ---
 
-### 💻 Application Features
+###  Application Features
 
 #### Core Functionality:
 1. **Weather Input Interface**: Intuitive sliders for 7 weather parameters
@@ -71,7 +71,7 @@ RandomForestClassifier(
 
 ---
 
-### 📊 Results & Performance
+###  Results & Performance
 
 #### Model Performance Metrics:
 - **Overall Accuracy**: 87.5%
@@ -92,7 +92,7 @@ RandomForestClassifier(
 
 ---
 
-### 🌍 Environmental Impact
+###  Environmental Impact
 
 #### Climate Action Benefits:
 1. **Weather Pattern Monitoring**: Helps identify climate change effects
@@ -108,7 +108,7 @@ RandomForestClassifier(
 
 ---
 
-### 🛠️ Technical Architecture
+###  Technical Architecture
 
 #### Technology Stack:
 ```
@@ -137,7 +137,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 📈 Data Analysis
+###  Data Analysis
 
 #### Dataset Characteristics:
 - **Size**: 40 training samples (expandable)
@@ -155,7 +155,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 🎓 Educational Value
+###  Educational Value
 
 #### Learning Outcomes:
 1. **Machine Learning**: Practical ML model development and deployment
@@ -174,7 +174,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 🚀 Future Enhancements
+###  Future Enhancements
 
 #### Short-term (1-3 months):
 - [ ] Real-time weather API integration (OpenWeatherMap)
@@ -196,7 +196,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 💡 Innovation Aspects
+###  Innovation Aspects
 
 #### Technical Innovation:
 1. **Domain-Specific ML**: Tailored specifically for windsurfing safety
@@ -212,7 +212,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 📋 Project Management
+###  Project Management
 
 #### Development Timeline:
 - **Week 1**: Requirements analysis and dataset creation
@@ -228,7 +228,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 🎯 Success Metrics
+###  Success Metrics
 
 #### Technical Metrics:
 - ✅ Model accuracy > 85% (Achieved: 87.5%)
@@ -244,7 +244,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 🔍 Challenges & Solutions
+###  Challenges & Solutions
 
 #### Challenge 1: Limited Real Data
 - **Problem**: No access to real windsurfing weather datasets
@@ -264,7 +264,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 📚 References & Resources
+###  References & Resources
 
 #### Technical References:
 1. Scikit-learn Documentation: Machine Learning in Python
@@ -280,7 +280,7 @@ Results Display + Trend Analysis
 
 ---
 
-### 🏆 Conclusion
+###  Conclusion
 
 AquaSafe AI successfully demonstrates the practical application of AI/ML technology in addressing real-world challenges related to climate change and sports safety. The project effectively combines technical innovation with environmental consciousness, creating a valuable tool for the windsurfing community while promoting climate action.
 
