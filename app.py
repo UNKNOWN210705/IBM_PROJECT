@@ -1,8 +1,4 @@
-"""
-WindsurfWise: AI-Powered Weather & Safety Forecasting System
-Streamlit Web Application
-Supporting SDG 13: Climate Action
-"""
+
 
 import streamlit as st
 import pandas as pd
@@ -132,9 +128,9 @@ def main():
     col1, col2 = st.columns([2, 1])
     
     with col1:
-        st.header("🔮 Safety Prediction")
+        st.header(" Safety Prediction")
         
-        if st.button("🚀 Predict Windsurfing Safety", type="primary"):
+        if st.button(" Predict Windsurfing Safety", type="primary"):
             with st.spinner("🧠 AI is analyzing weather conditions..."):
                 time.sleep(1)
                 safety_status, confidence = predictor.predict_safety(
@@ -173,7 +169,7 @@ def main():
                     st.write(f"{i}. {tip}")
 
     with col2:
-        st.header("📊 Current Conditions")
+        st.header(" Current Conditions")
 
         fig_gauge = go.Figure(go.Indicator(
             mode = "gauge+number",
@@ -233,12 +229,12 @@ def main():
                         })
         st.plotly_chart(fig_pie, use_container_width=True)
 
-    st.header("🌍 Climate Action & Environmental Impact")
+    st.header(" Climate Action & Environmental Impact")
     col5, col6, col7 = st.columns(3)
 
     with col5:
         st.markdown("""
-        ### 🎯 SDG 13 Connection
+        ###  SDG 13 Connection
         - **Climate Monitoring**: Track weather pattern changes
         - **Risk Assessment**: Adapt to climate-driven weather variability
         - **Data Collection**: Contribute to climate research
@@ -246,7 +242,7 @@ def main():
 
     with col6:
         st.markdown("""
-        ### 🌊 Environmental Tips
+        ###  Environmental Tips
         - Use reef-safe sunscreen
         - Bring reusable water bottles
         - Report pollution incidents
@@ -255,7 +251,7 @@ def main():
 
     with col7:
         st.markdown("""
-        ### 📊 Impact Metrics
+        ###  Impact Metrics
         - **Predictions Made**: 1,247
         - **Safety Incidents Prevented**: 23
         - **Climate Data Points**: 15,680
@@ -265,7 +261,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666;">
-        <p>🌊 WindsurfWise | AI for Climate Action | Built with ❤️ for SDG 13</p>
+        <p> WindsurfWise | AI for Climate Action</p>
         <p><em>"Surf safely, protect our oceans, combat climate change"</em></p>
     </div>
     """, unsafe_allow_html=True)
