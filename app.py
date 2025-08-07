@@ -14,7 +14,7 @@ from windsurf_model import WindsurfPredictor  # Fixed import for model class
 # Page configuration
 st.set_page_config(
     page_title="WindsurfWise",
-    page_icon="🌊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
