@@ -1,31 +1,31 @@
-# 🌊 AquaSafe AI: AI-Powered Weather & Safety Forecasting System
+#  AquaSafe AI: AI-Powered Weather & Safety Forecasting System
 
-## 🎯 Project Overview
+##  Project Overview
 
 **AquaSafe AI** is an intelligent weather forecasting system designed specifically for windsurfers, supporting **UN SDG 13: Climate Action**. The system uses machine learning to predict windsurfing safety conditions and promotes environmental awareness.
 
-### 🌍 SDG 13 Connection: Climate Action
+### SDG 13 Connection: Climate Action
 - **Problem**: Climate change has made weather patterns increasingly unpredictable, affecting wind-based sports safety
 - **Solution**: AI-powered system that helps users adapt to changing weather patterns while promoting climate awareness
 - **Impact**: Reduces weather-related accidents and educates users about climate change effects
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🤖 AI/ML Capabilities
+###  AI/ML Capabilities
 - **Random Forest Classifier** for safety prediction
 - **Real-time weather analysis** with 7 key parameters
 - **Confidence scoring** for prediction reliability
 - **Feature importance analysis** for model transparency
 
-### 🎨 User Interface
+###  User Interface
 - **Modern Streamlit web app** with responsive design
 - **Interactive weather parameter controls**
 - **Real-time prediction with visual feedback**
 - **Trend analysis and historical data visualization**
 
-### 🌱 Environmental Features
+###  Environmental Features
 - **Personalized eco-friendly tips**
 - **Climate awareness education**
 - **Environmental impact tracking**
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 - **Algorithm**: Random Forest Classifier
 - **Features**: 7 weather parameters
@@ -63,7 +63,7 @@
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -89,7 +89,7 @@ Navigate to `http://localhost:8501` in your web browser.
 
 ---
 
-## 📱 How to Use
+##  How to Use
 
 ### 1. **Enter Weather Data**
 - Use the sidebar sliders to input current weather conditions
@@ -112,32 +112,32 @@ Navigate to `http://localhost:8501` in your web browser.
 
 ---
 
-## 📈 Sample Predictions
+##  Sample Predictions
 
 ### Example 1: Safe Conditions
 ```
 Input: Wind=25km/h, Temp=22°C, Humidity=65%, UV=7, Clouds=30%, Pressure=1013hPa, Visibility=10km
-Output: ✅ SAFE TO WINDSURF (Confidence: 92.3%)
+Output:  SAFE TO WINDSURF (Confidence: 92.3%)
 Tips: Great conditions! Use reef-safe sunscreen, bring reusable water bottle
 ```
 
 ### Example 2: Caution Conditions
 ```
 Input: Wind=40km/h, Temp=28°C, Humidity=45%, UV=9, Clouds=20%, Pressure=1018hPa, Visibility=12km
-Output: ⚠️ PROCEED WITH CAUTION (Confidence: 87.1%)
+Output:  PROCEED WITH CAUTION (Confidence: 87.1%)
 Tips: Strong winds detected. Wear safety gear, stay close to shore
 ```
 
 ### Example 3: Unsafe Conditions
 ```
 Input: Wind=8km/h, Temp=18°C, Humidity=80%, UV=3, Clouds=90%, Pressure=1008hPa, Visibility=5km
-Output: 🚫 NOT SAFE FOR WINDSURFING (Confidence: 94.7%)
+Output: NOT SAFE FOR WINDSURFING (Confidence: 94.7%)
 Tips: Low wind and poor visibility. Wait for better conditions
 ```
 
 ---
 
-## 🌍 Environmental Impact
+##  Environmental Impact
 
 ### Climate Action Benefits:
 - **Weather Pattern Monitoring**: Helps track climate change effects
@@ -153,7 +153,7 @@ Tips: Low wind and poor visibility. Wait for better conditions
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AquaSafe AI/
@@ -168,7 +168,7 @@ AquaSafe AI/
 
 ---
 
-## 🔬 Model Details
+##  Model Details
 
 ### Algorithm Choice: Random Forest
 - **Why Random Forest?**
@@ -189,7 +189,7 @@ AquaSafe AI/
 
 ---
 
-## 🎓 Educational Value
+##  Educational Value
 
 ### Learning Outcomes:
 - **AI/ML**: Practical machine learning application
@@ -205,7 +205,7 @@ AquaSafe AI/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Technical Improvements:
 - [ ] Real-time weather API integration
@@ -229,7 +229,7 @@ AquaSafe AI/
 
 ---
 
-## 👥 Contributing
+## Contributing
 
 We welcome contributions to AquaSafe AI! Please follow these guidelines:
 
@@ -241,13 +241,13 @@ We welcome contributions to AquaSafe AI! Please follow these guidelines:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **UN SDG 13**: Inspiration for climate action focus
 - **Windsurfing Community**: Domain expertise and feedback
@@ -259,10 +259,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact & Support
 
 For questions, suggestions, or support:
-- **Email**: windsurf.wise@example.com
+- **Email**: sudanshukhullar3@gmail.com
 - **GitHub**: [AquaSafe AI Repository]
 - **Documentation**: [Project Wiki]
 
 ---
 
-**🌊 Surf safely, protect our oceans, combat climate change! 🌍**
+** Surf safely, protect our oceans, combat climate change! **
