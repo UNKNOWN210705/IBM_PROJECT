@@ -96,7 +96,7 @@ def generate_trend_data():
     })
 
 def main():
-    st.markdown('<h1 class="main-header">🌊 AquaSafe AI</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header"> AquaSafe AI</h1>', unsafe_allow_html=True)
     
     st.markdown("""
     ### AI-Powered Weather & Safety Forecasting for Windsurfers
